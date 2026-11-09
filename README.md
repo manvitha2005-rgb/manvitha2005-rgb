@@ -34,7 +34,7 @@ I'm seeking a **Software Development Engineer** or **Full Stack Developer** role
 ### 💡 Interests
 
 - 🏆 Competitive Programming
-- 🤖 AI/ML & Cybersecurity
+- 🤖 AI/ML
 - 🌐 Full Stack Web Development
 - 👩‍🏫 Mentoring & Teaching
 
@@ -138,7 +138,6 @@ I'm seeking a **Software Development Engineer** or **Full Stack Developer** role
 
 <a href="https://leetcode.com/u/manvitha2005/"><img src="https://img.shields.io/badge/LeetCode-manvitha2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="https://www.codechef.com/users/manvitha2005"><img src="https://img.shields.io/badge/CodeChef-manvitha2005-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://codeforces.com/profile/manvitha123"><img src="https://img.shields.io/badge/Codeforces-manvitha123-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 
 </div>
 
@@ -185,7 +184,6 @@ I'm seeking a **Software Development Engineer** or **Full Stack Developer** role
 <a href="https://github.com/manvitha2005-rgb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/manvitha2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="https://www.codechef.com/users/manvitha2005"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://codeforces.com/profile/manvitha123"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 
 <br/><br/>
 
